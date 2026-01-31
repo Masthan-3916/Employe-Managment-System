@@ -1,0 +1,9 @@
+.bg {
+  background-image: url("C:\Users\masthanaiah\OneDrive\Desktop\mern1\Addstuden1.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.bx_Shadow{
+    border-color: black;
+    box-shadow: rgb(115, 39, 51);
+}
